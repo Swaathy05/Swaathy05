@@ -10,9 +10,10 @@
 
 <img align="right" width="250" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Female Programmer GIF"/>
 
-### AI & DS Student  
-### Learning DSA & building scalable apps  
-### Resilient learner | Growth mindset | Problem solver
+### 👩‍🎓 AI & Data Science Student  
+### 💻 Learning DSA & Building Scalable Applications  
+### 🔥 Resilient Learner | 💡 Growth Mindset | 🛠 Problem Solver  
+
 
 <br clear="both" />
 
