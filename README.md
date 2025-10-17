@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I'm Swaathy!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> Hi, I'm Swaathy!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+DS+Student;Learning+DSA+%26+Building+Apps;Resilient+Learner+%7C+Growth+Mindset;Problem+Solver+%7C+Future+Builder&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=58A6FF" alt="Typing SVG" />
@@ -32,7 +32,6 @@
 <!-- Web -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap"/>
 <!-- Jetpack Compose Logo (external source, fallback to text if not loading) -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jetpackcompose.svg" width="40" height="40" alt="jetpack compose"/>
 <!-- Data Science -->
